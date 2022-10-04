@@ -1,4 +1,4 @@
-#Minhas Tarefas - Aplicação que gerencia as tarefas
+# Minhas Tarefas - Aplicação que gerencia as tarefas
 
 ![image](https://user-images.githubusercontent.com/52681020/193891375-7a4e1b06-50a7-40ca-ba59-25956bdaeb14.png)
 
